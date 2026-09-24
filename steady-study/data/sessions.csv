@@ -1,0 +1,9 @@
+session_minutes,eye_level_events,eyes_closed_events,face_missing_events,focus_rate,study_mode,focus_state
+15,1,0,0,0.93,screen,focused
+20,2,1,0,0.86,screen,focused
+25,5,2,1,0.68,screen,distracted
+15,0,0,0,0.97,reading,focused
+30,7,3,2,0.55,screen,distracted
+20,2,1,0,0.84,reading,focused
+35,6,2,1,0.63,screen,distracted
+18,1,0,0,0.91,screen,focused
